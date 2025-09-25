@@ -1,0 +1,12 @@
+.container {
+   background-color: blue;
+   display: flex;
+   height: 200px;
+}
+
+
+.item {
+  background-color: brown;
+  margin: 10px;
+  flex: 1;
+}
